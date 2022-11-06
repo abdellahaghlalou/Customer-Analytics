@@ -8,4 +8,8 @@ Here are some very important Marketing definitions that you must know before rea
 <b>Segmentation</b> : Dividing a population into groups with similar characteristics.</br>
 <b>Targeting</b> : valuating potential profits from segments and deciding which segmetns to focus on.</br>
 <b>Positioning</b> : What product would have the closest characteritics to customers'needs.</br>
-<b>Marketing Mix</b> :</br>
+<b>Marketing Mix</b> :Product(Design,Color) , Price (Discount...), Promotion (Ads), Place(Distribution types).</br>
+<b>Purchase Probability</b> : Will a customer buy a product when they enter a shop.</br>
+<b>Brand choice probability</b> : Wish brand will the customer shoose.(Cocacole or Pepsi)</br>
+<b>Purchase quantity</b> : How mush units the customer will purchase.</br>
+
