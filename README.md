@@ -12,6 +12,7 @@ Here are some very important Marketing definitions that you must know before rea
 <b>Purchase Probability</b> : Will a customer buy a product when they enter a shop.</br>
 <b>Brand choice probability</b> : Wish brand will the customer shoose.(Cocacole or Pepsi)</br>
 <b>Purchase quantity</b> : How mush units the customer will purchase.</br>
+<b>Price elasticity</b> : % change in purchase probability in response to 1% change in price.</br>
 
 ## Hierichical Clustering :
 
