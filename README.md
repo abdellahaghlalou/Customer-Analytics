@@ -13,3 +13,17 @@ Here are some very important Marketing definitions that you must know before rea
 <b>Brand choice probability</b> : Wish brand will the customer shoose.(Cocacole or Pepsi)</br>
 <b>Purchase quantity</b> : How mush units the customer will purchase.</br>
 
+## Hierichical Clustering :
+
+## K-Means :
+
+## Descriptive analysis of purchase data :
+
+## Modeling of Incidence : 
+
+## Modeling of brand choice : 
+
+## Modeling of Purchase Quantity : 
+
+## Deep Learning :
+
